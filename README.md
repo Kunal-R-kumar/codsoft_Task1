@@ -1,6 +1,7 @@
 # codsoft_Task1
 ## Task 1 assigned by codsoft :- creation of a to do list using python
 
+_**This is a GUI based todo list program**_
 **This to do list can perform tasks such as :**
   - Addition of task
   - Deletion of selected task(s)
