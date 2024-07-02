@@ -12,9 +12,9 @@
     3. Increasing / Decreasing manner
     
 **These functionality can also be achiheved by using keyboard shortcuts also that are as follows:**
-    - Ctrl A  To select all records
-    - Escape  To deselect the selected ones
-    - Delete  To delete the selected records
-    - Ctrl G  To change status of selected ones
-    - Ctrl E  To edit a single record selected at a time
-    - Ctrl I  To insert a record
+  - Ctrl A  To select all records
+  - Escape  To deselect the selected ones
+  - Delete  To delete the selected records
+  - Ctrl G  To change status of selected ones
+  - Ctrl E  To edit a single record selected at a time
+  - Ctrl I  To insert a record
