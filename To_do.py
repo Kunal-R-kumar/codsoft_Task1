@@ -185,7 +185,7 @@ def shows():
     swin=Toplevel(to_do)
     di={"Ctrl A": "To select all records","Escape": "To deselect the selected ones","Delete": "To delete the selected records","Ctrl G": "To change status of selected ones","Ctrl E": "To edit a single record selected at a time","Ctrl I": "To insert a record" }
     for j,i in enumerate(di,start=0):
-        Label(swin, text=f"{j}").grid(row=j,column=1,padx=5,pady=5)
+        Label(swin, text=f"{j+1}").grid(row=j,column=1,padx=5,pady=5)
         Label(swin,text=f"{i}").grid(row=j,column=2,sticky=W,padx=5,pady=5)
         Label(swin,text=f"{di[i]}").grid(row=j,column=3,sticky=W,padx=5,pady=5)
 menubar = Menu(to_do)
